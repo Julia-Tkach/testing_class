@@ -1,1 +1,2 @@
-1) some changes have been added
+1) some changes have been made
+2) added the second line
